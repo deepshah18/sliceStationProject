@@ -1,0 +1,29 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "imgUrl":"https://www.naturaldehydration.com/images/1699203541-pr1-1.jpg",
+            "discription":"Dehydrated White Onion"
+        },
+        {
+            "id": 2,
+            "imgUrl":"https://www.naturaldehydration.com/images/1700303933-Spray-Dried-Green-Chilli-Powder.jpg",
+            "discription":"Green Chilli"
+        },
+        {
+            "id": 3,
+            "imgUrl":"https://www.naturaldehydration.com/images/1700305137-Spice-Red-Chili-Whole.jpg",
+            "discription":"Spice Red Chilli"
+        },
+        {
+            "id": 4,
+            "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC69E8R8FRn2i11V2_MlhfutTyZkDSssWR36M9v34iDQ&s",
+            "discription":"Ketchup Slice"
+        },
+        {
+            "id": 5,
+            "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtKa3RBEq2v3IIVbQXYJjVoG6ETgjnlJtjK9dSxh4yA&s",
+            "discription":"Cheese Slice"
+        }
+    ]    
+}

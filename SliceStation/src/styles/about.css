@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 .btn {
   font-family: "Nunito", sans-serif !important;
-  font-size: 18px !important;
+  font-size: 18px ;
   font-weight: 400 !important;
-  background: #f2391f !important;
-  color: #fff !important;
-  text-transform: capitalize !important;
+  background: #f2391f ;
+  color: #fff ;
+  text-transform: capitalize ;
   padding: 15px 45px !important;
   border-radius: 30px !important;
   margin-top: 20px !important;
@@ -31,4 +31,9 @@ p{
     font-size: 18px !important;
     line-height: 30px !important;
     font-weight: 400 !important;
+}
+
+.readMore:hover{
+  background: #000 ;
+  color: #fff ;
 }

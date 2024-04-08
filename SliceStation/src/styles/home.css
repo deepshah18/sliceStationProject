@@ -1,0 +1,13 @@
+
+.carousel-caption{
+    position: absolute !important;
+    top: 45% !important;
+    left: 0 !important;
+    right:70% !important;
+    padding-top: 1.25rem!important;
+    padding-bottom: 1.25rem!important;
+    color: #fff!important;
+}
+.carousel-indicators{
+    display: none !important
+}

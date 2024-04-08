@@ -12,7 +12,7 @@ const SecondaryHeader = () => {
         <BiEnvelope size={24} color="white" style={{marginLeft:'30px'}}/>
         <span className="mx-2">info@naturaldehydration.com</span>
       </div>
-      <div>
+      {/* <div>
         <Dropdown>
           <Dropdown.Toggle variant="secondary" id="dropdown-basic">
             <FaBeer />
@@ -24,7 +24,7 @@ const SecondaryHeader = () => {
             <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
           </Dropdown.Menu>
         </Dropdown>
-      </div>
+      </div> */}
     </div>
   );
 };
