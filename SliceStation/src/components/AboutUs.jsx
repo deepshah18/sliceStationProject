@@ -6,7 +6,6 @@ import AOS from 'aos';
 const AboutUs = () => {
   useEffect(() => {
     AOS.init({ duration: 1000}); // Initialize AOS with your desired options
-
   });
   return (
     <div className="container-fluid">

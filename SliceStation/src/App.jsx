@@ -7,6 +7,7 @@ import AboutUs from './components/AboutUs'
 import { PrimaryHeader } from './components/PrimaryHeader'
 import Home from './components/Home'
 import Product from './components/Product'
+import Footer from './components/Footer'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -17,6 +18,7 @@ function App() {
     <Home/>
     <AboutUs />
     <Product/>
+    <Footer/>
     </>
   )
 }
